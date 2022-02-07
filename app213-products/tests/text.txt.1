@@ -1,0 +1,27 @@
+ Product iphn = new Product(101, "Samsung Galaxy");
+iphn.print();
+ ID 101: Samsung Galaxy stock level: 0
+iphn.decreaseQuantity(4);
+iphn.print();
+ ID 101: Samsung Galaxy stock level: 0
+iphn.increaseQuantity(6);
+iphn.print();
+ ID 101: Samsung Galaxy stock level: 6
+iphn.decreaseQuantity(3);
+iphn.print();
+ ID 101: Samsung Galaxy stock level: 3
+Product samsang = new Product(102, "Samsung Galaxy");
+samsang.print();
+ ID 102: Samsung Galaxy stock level: 0
+StockList stockLis1 = new StockList();
+stockLis1.add(iphn);
+StockList stockLis2 = new StockList();
+stockLis1.add(samsang);
+stockLis1.print();
+
+ Raman's Stock List
+ ====================
+
+ ID 101: Samsung Galaxy stock level: 3
+ ID 102: Samsung Galaxy stock level: 0
+

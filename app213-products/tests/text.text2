@@ -1,0 +1,68 @@
+ StockList ramanstocklist = new StockList();
+StockDemo ramanstockdemo = new StockDemo();
+
+ Raman's Stock List
+ ====================
+
+ ID 101: Samsung Galaxy S10 stock level: 0
+ ID 102: IPhone 8  stock level: 0
+ ID 103: Samsung Galaxy A03s stock level: 0
+ ID 104: Samsung Galaxy Note20 stock level: 0
+ ID 105: Samsung Galaxy Note9 stock level: 0
+ ID 106: Samsung Galaxy S20 FE stock level: 0
+ ID 107: Xiaomi Mi 11x stock level: 0
+ ID 108: Samsung Galaxy M12 stock level: 0
+ ID 109: Samsung Galaxy S21 Ultra stock level: 0
+ ID 110: Samsung Galaxy Note8 stock level: 0
+
+bought 9 of Samsung Galaxy S10
+bought 13 of IPhone 8 
+bought 24 of Samsung Galaxy A03s
+bought 51 of Samsung Galaxy Note20
+bought 15 of Samsung Galaxy Note9
+bought 39 of Samsung Galaxy S20 FE
+bought 52 of Xiaomi Mi 11x
+bought 84 of Samsung Galaxy M12
+bought 95 of Samsung Galaxy S21 Ultra
+bought 8 of Samsung Galaxy Note8
+
+ Raman's Stock List
+ ====================
+
+ ID 101: Samsung Galaxy S10 stock level: 9
+ ID 102: IPhone 8  stock level: 13
+ ID 103: Samsung Galaxy A03s stock level: 24
+ ID 104: Samsung Galaxy Note20 stock level: 51
+ ID 105: Samsung Galaxy Note9 stock level: 15
+ ID 106: Samsung Galaxy S20 FE stock level: 39
+ ID 107: Xiaomi Mi 11x stock level: 52
+ ID 108: Samsung Galaxy M12 stock level: 84
+ ID 109: Samsung Galaxy S21 Ultra stock level: 95
+ ID 110: Samsung Galaxy Note8 stock level: 8
+
+sold 8 of Samsung Galaxy S10
+sold 11 of IPhone 8 
+sold 22 of Samsung Galaxy A03s
+can't sell56ofSamsung Galaxy Note20because only have 51
+sold 12 of Samsung Galaxy Note9
+sold 35 of Samsung Galaxy S20 FE
+sold 35 of Xiaomi Mi 11x
+sold 50 of Samsung Galaxy M12
+sold 79 of Samsung Galaxy S21 Ultra
+can't sell90ofSamsung Galaxy Note8because only have 8
+product doesn't exist
+
+ Raman's Stock List
+ ====================
+
+ ID 101: Samsung Galaxy S10 stock level: 1
+ ID 102: IPhone 8  stock level: 2
+ ID 103: Samsung Galaxy A03s stock level: 2
+ ID 104: Samsung Galaxy Note20 stock level: 51
+ ID 105: Samsung Galaxy Note9 stock level: 3
+ ID 106: Samsung Galaxy S20 FE stock level: 4
+ ID 107: Xiaomi Mi 11x stock level: 17
+ ID 108: Samsung Galaxy M12 stock level: 34
+ ID 109: Samsung Galaxy S21 Ultra stock level: 16
+ ID 110: Samsung Galaxy Note8 stock level: 8
+
